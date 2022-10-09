@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ashish Pandey
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning Kalman Filter
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ashishpandey2600@gmail.com
 
 <!---
