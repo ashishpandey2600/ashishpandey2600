@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashish Pandey
 - 👀 I’m interested in c++
 - 🌱 I’m currently learning Kalman Filter
-- 📫 How to reach me ashishpandey2600@gmail.com
+- 📫 Reach me ashishpandey2600@gmail.com
 
 <!---
 ashishpandey2600/ashishpandey2600 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
