@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashish Pandey
-- 👀 I’m interested in c++
-- 🌱 I’m currently learning Kalman Filter
+- 👀 I’m interested in Flutter
+- 🌱 I’m currently learning Flutter
 - 📫 Reach me ashishpandey2600@gmail.com
 
 <!---
